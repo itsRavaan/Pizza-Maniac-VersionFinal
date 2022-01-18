@@ -1,0 +1,17 @@
+<!--Add spinner here-->
+<ngx-spinner
+  bdColor="rgba(51,51,51,0.8)"
+  size="medium"
+  color="#fff"
+  type="ball-scale-multiple"
+>
+  <p style="font-size: 20px; color: white">Wait...</p>
+</ngx-spinner>
+
+<!--reference the nav component-->
+<app-nav></app-nav>
+
+<div class="container">
+  <!--We load the router component here instead of forcing home component load-->
+<router-outlet></router-outlet>
+</div>

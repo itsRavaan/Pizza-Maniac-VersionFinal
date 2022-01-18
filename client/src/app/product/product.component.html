@@ -1,0 +1,58 @@
+<div class="col-sm-12 col-md-12 col-lg-12" style="margin-top: 50px;">
+    <!-- product -->
+    <div class="product-content product-wrap clearfix product-deatil">
+        <div class="row">
+            <div class="col-md-5 col-sm-12 col-xs-12">
+                <div class="product-image">
+                    <div id="myCarousel-2" class="carousel slide">
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel-2" data-slide-to="0" class=""></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <!-- Slide 1 -->
+                            <div class="item active">
+                            <img src="{{product.pizzaMarketingImage}}" class="card-img-top img-thumbnail" alt="{{product.pizzaName}}" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-md-offset-1 col-sm-12 col-xs-12" style="margin-top: 40px;">
+                <h2 class="name">
+                    {{product.pizzaName}}
+                    <h4 style="font-weight: lighter;font-family: Georgia, 'Times New Roman', Times, serif;">Made With Lots of Love and Cheese By pizza-Maniac</h4>
+                    <i class="fa fa-star fa-2x text-primary"></i>
+                    <i class="fa fa-star fa-2x text-primary"></i>
+                    <i class="fa fa-star fa-2x text-primary"></i>
+                    <i class="fa fa-star fa-2x text-primary"></i>
+                    <i class="fa fa-star fa-2x text-muted"></i>
+                    <span class="fa fa-2x"><h5>(109) Votes</h5></span>
+                    <a href="javascript:void(0);">109 customer reviews</a>
+                </h2>
+                <hr />
+                <h3 class="price-container">
+                    ${{product.pizzaPrice}}
+                    <small>*includes tax</small>
+                </h3>
+                <hr />
+                <div class="description description-tabs">
+                    {{product.pizzaText}}
+                </div>
+                <hr />
+                <div class="row">
+                    <div class="col-sm-12 col-md-6 col-lg-6">
+                        <a (click)="addToCart(product)" class="btn btn-success btn-lg">Add to cart (${{product.pizzaPrice}})</a>
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-6">
+                        <div class="btn-group pull-right">
+                            <button  routerLink="/cart" class="btn btn-white btn-default"><i class="fa fa-shopping-cart"></i> Go to cart</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end product -->
+</div>
+

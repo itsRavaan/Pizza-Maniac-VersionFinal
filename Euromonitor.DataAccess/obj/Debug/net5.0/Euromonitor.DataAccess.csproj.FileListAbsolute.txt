@@ -1,0 +1,105 @@
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\bin\Debug\net5.0\Data\BookSeedData.json
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.deps.json
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.runtimeconfig.json
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.runtimeconfig.dev.json
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.dll
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\bin\Debug\net5.0\ref\Euromonitor.DataAccess.dll
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.pdb
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Models.dll
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Utilities.dll
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Models.pdb
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Utilities.pdb
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csprojAssemblyReference.cache
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.AssemblyInfo.cs
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.CopyComplete
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.dll
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\obj\Debug\net5.0\ref\Euromonitor.DataAccess.dll
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.pdb
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.genruntimeconfig.cache
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\bin\Debug\net5.0\Data\BookSeedData.json
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.deps.json
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.runtimeconfig.json
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.runtimeconfig.dev.json
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.dll
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\bin\Debug\net5.0\ref\Euromonitor.DataAccess.dll
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.pdb
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Utilities.dll
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Models.pdb
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Utilities.pdb
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.AssemblyInfo.cs
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.CopyComplete
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.dll
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\obj\Debug\net5.0\ref\Euromonitor.DataAccess.dll
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.pdb
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.genruntimeconfig.cache
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.AssemblyInfo.cs
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.dll
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\obj\Debug\net5.0\ref\Euromonitor.DataAccess.dll
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.pdb
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\bin\Debug\net5.0\Data\BookSeedData.json
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.deps.json
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.runtimeconfig.json
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.runtimeconfig.dev.json
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.dll
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\bin\Debug\net5.0\ref\Euromonitor.DataAccess.dll
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.pdb
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Utilities.dll
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Models.pdb
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Utilities.pdb
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.CopyComplete
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.genruntimeconfig.cache
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Data\BookSeedData.json
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.deps.json
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.runtimeconfig.json
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.runtimeconfig.dev.json
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.dll
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\ref\Euromonitor.DataAccess.dll
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.pdb
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Models.dll
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Utilities.dll
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Models.pdb
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Utilities.pdb
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.AssemblyReference.cache
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.AssemblyInfoInputs.cache
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.AssemblyInfo.cs
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.CoreCompileInputs.cache
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.CopyComplete
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.dll
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\ref\Euromonitor.DataAccess.dll
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.pdb
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.genruntimeconfig.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Data\BookSeedData.json
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.deps.json
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.runtimeconfig.json
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.runtimeconfig.dev.json
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\ref\Euromonitor.DataAccess.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.DataAccess.pdb
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Utilities.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Models.pdb
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\bin\Debug\net5.0\Euromonitor.Utilities.pdb
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.AssemblyInfo.cs
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.csproj.CopyComplete
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\ref\Euromonitor.DataAccess.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.pdb
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.DataAccess\obj\Debug\net5.0\Euromonitor.DataAccess.genruntimeconfig.cache

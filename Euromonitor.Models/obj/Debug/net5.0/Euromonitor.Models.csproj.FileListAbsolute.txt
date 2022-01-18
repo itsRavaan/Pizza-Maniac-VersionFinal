@@ -1,0 +1,60 @@
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.deps.json
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.dll
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.Models\bin\Debug\net5.0\ref\Euromonitor.Models.dll
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.pdb
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.csprojAssemblyReference.cache
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.AssemblyInfoInputs.cache
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.AssemblyInfo.cs
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.csproj.CoreCompileInputs.cache
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.dll
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.Models\obj\Debug\net5.0\ref\Euromonitor.Models.dll
+C:\Users\rhasq\OneDrive\Documents\Tests\Euromonitor International\Euromonitor\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.pdb
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.deps.json
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.Models\bin\Debug\net5.0\ref\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.pdb
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.csproj.AssemblyReference.cache
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.AssemblyInfoInputs.cache
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.AssemblyInfo.cs
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.csproj.CoreCompileInputs.cache
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.Models\obj\Debug\net5.0\ref\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\Online-Store-Angular-11-and-Web-API-Core-5-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.pdb
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.deps.json
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.Models\bin\Debug\net5.0\ref\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.pdb
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.csproj.AssemblyReference.cache
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.AssemblyInfoInputs.cache
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.AssemblyInfo.cs
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.csproj.CoreCompileInputs.cache
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.Models\obj\Debug\net5.0\ref\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\PizzaApp-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.pdb
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.deps.json
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.dll
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.Models\bin\Debug\net5.0\ref\Euromonitor.Models.dll
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.pdb
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.csproj.AssemblyReference.cache
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.AssemblyInfoInputs.cache
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.AssemblyInfo.cs
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.csproj.CoreCompileInputs.cache
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.dll
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\ref\Euromonitor.Models.dll
+E:\Project-PizzaManiac\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.pdb
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.deps.json
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.Models\bin\Debug\net5.0\ref\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.Models\bin\Debug\net5.0\Euromonitor.Models.pdb
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.csproj.AssemblyReference.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.AssemblyInfoInputs.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.AssemblyInfo.cs
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.csproj.CoreCompileInputs.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\ref\Euromonitor.Models.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Euromonitor.Models\obj\Debug\net5.0\Euromonitor.Models.pdb
