@@ -1,0 +1,12 @@
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Utilities\bin\Debug\net5.0\PizzaManiac.Utilities.deps.json
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Utilities\bin\Debug\net5.0\PizzaManiac.Utilities.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Utilities\bin\Debug\net5.0\ref\PizzaManiac.Utilities.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Utilities\bin\Debug\net5.0\PizzaManiac.Utilities.pdb
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Utilities\obj\Debug\net5.0\PizzaManiac.Utilities.csproj.AssemblyReference.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Utilities\obj\Debug\net5.0\PizzaManiac.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Utilities\obj\Debug\net5.0\PizzaManiac.Utilities.AssemblyInfoInputs.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Utilities\obj\Debug\net5.0\PizzaManiac.Utilities.AssemblyInfo.cs
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Utilities\obj\Debug\net5.0\PizzaManiac.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Utilities\obj\Debug\net5.0\PizzaManiac.Utilities.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Utilities\obj\Debug\net5.0\ref\PizzaManiac.Utilities.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Utilities\obj\Debug\net5.0\PizzaManiac.Utilities.pdb

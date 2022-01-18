@@ -1,0 +1,12 @@
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Models\bin\Debug\net5.0\PizzaManiac.Models.deps.json
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Models\bin\Debug\net5.0\PizzaManiac.Models.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Models\bin\Debug\net5.0\ref\PizzaManiac.Models.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Models\bin\Debug\net5.0\PizzaManiac.Models.pdb
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Models\obj\Debug\net5.0\PizzaManiac.Models.csproj.AssemblyReference.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Models\obj\Debug\net5.0\PizzaManiac.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Models\obj\Debug\net5.0\PizzaManiac.Models.AssemblyInfoInputs.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Models\obj\Debug\net5.0\PizzaManiac.Models.AssemblyInfo.cs
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Models\obj\Debug\net5.0\PizzaManiac.Models.csproj.CoreCompileInputs.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Models\obj\Debug\net5.0\PizzaManiac.Models.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Models\obj\Debug\net5.0\ref\PizzaManiac.Models.dll
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.Models\obj\Debug\net5.0\PizzaManiac.Models.pdb

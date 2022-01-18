@@ -1,0 +1,5 @@
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.DataAccess\obj\Debug\net5.0\PizzaManiac.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.DataAccess\obj\Debug\net5.0\PizzaManiac.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.DataAccess\obj\Debug\net5.0\PizzaManiac.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.DataAccess\obj\Debug\net5.0\PizzaManiac.DataAccess.AssemblyInfo.cs
+C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\PizzaManiac.DataAccess\obj\Debug\net5.0\PizzaManiac.DataAccess.csproj.CoreCompileInputs.cache
