@@ -9,8 +9,8 @@
                     <div class="cp_img">
                         <img id="product_img" src="{{pizza.pizzaMarketingImage}}" alt="Product" class="img-fluid">
                         <div class="hover">
-                            <a [routerLink]="['/product', pizza.id]" class="btn btn-primary btn-sm waves-effect"><i class="zmdi zmdi-plus"></i></a>
-                            <a (click)="addToCart(pizza)" class="btn btn-primary btn-sm waves-effect"><i class="zmdi zmdi-shopping-cart"></i></a>
+                            <a [routerLink]="['/product', pizza.id]" style="margin: 5px;" class="btn btn-outline-success btn-sm waves-effect"><i class="fa fa-info-circle" aria-hidden="true"></i></a>
+                            <a (click)="addToCart(pizza)" style="margin: 5px;" class="btn btn-outline-dark btn-sm waves-effect"><i class="zmdi zmdi-shopping-cart"></i></a>
                         </div>
                     </div>
                     <div class="product_details">

@@ -8,11 +8,11 @@
   background-color: transparent;
 }
 
-.bg-light{
-  background-color:rgb(199, 229, 255);
-  
+.navbar{
+  background-color:rgb(255, 255, 255);
+
 }
 .navbar{
   height: 70px;
- 
+
 }
