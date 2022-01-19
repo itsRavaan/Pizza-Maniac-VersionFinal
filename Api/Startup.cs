@@ -38,12 +38,12 @@ namespace Api.Api
             //Register the Swagger Generator
             services.AddSwaggerGen(options =>
             {
-                options.SwaggerDoc("EuromonitorOpenAPISpec",
+                options.SwaggerDoc("PizzaManiacSpec",
                     new Microsoft.OpenApi.Models.OpenApiInfo()
                     {
-                        Title = "API",
-                        Version = "1",
-                        Description = "API for online pizza order.",
+                        Title = "PizzaManiac API",
+                        Version = "Final",
+                        Description = "API for PizzaManiac App.",
                         Contact = new Microsoft.OpenApi.Models.OpenApiContact()
                         {
                             Email = "Skr434546@gmail.com",
@@ -53,10 +53,7 @@ namespace Api.Api
                         
                     });
 
-                //Here we pass our XML code comments through to Swagger
-                //var xmlCommentFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
-                //var cmlCommentsFullPath = Path.Combine(AppContext.BaseDirectory, xmlCommentFile);
-                //options.IncludeXmlComments(cmlCommentsFullPath);
+               
 
             });
 
@@ -84,7 +81,7 @@ namespace Api.Api
             app.UseSwaggerUI(options =>
             {
                 //Set endpoint where Swagger UI will be hosted
-                options.SwaggerEndpoint("/swagger/EuromonitorOpenAPISpec/swagger.json", "Pizza API");
+                options.SwaggerEndpoint("/swagger/PizzaManiacSpec/swagger.json", "Pizza API");
 
                 //Add custom stylesheet to Swagger UI
                 options.InjectStylesheet("/swagger-custom/swagger-custom-styles.css");

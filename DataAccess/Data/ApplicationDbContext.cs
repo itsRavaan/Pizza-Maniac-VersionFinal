@@ -17,7 +17,7 @@ namespace Api.DataAccess.Data
         {
         }
 
-        //Creates table called User in DB
+        //Creates table called AppUser in DB
         public DbSet<AppUser> AppUser { get; set; }
 
         //Creates a table called Pizza in the DB

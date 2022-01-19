@@ -5,7 +5,6 @@ C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Api\obj\Debug\net5.0\Api.Assem
 C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
 C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Api\bin\Debug\net5.0\Data\BookSeedData.json
 C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Api\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Api\bin\Debug\net5.0\appsettings.json
 C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\Api\bin\Debug\net5.0\Api.exe

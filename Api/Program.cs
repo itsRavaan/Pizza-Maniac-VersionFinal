@@ -36,7 +36,7 @@ namespace Api
                 await context.Database.MigrateAsync();
 
                 //Run SEED method to seed Books from JSON file to DB
-                await Seed.SeedPizzas(context);
+               
             }
             catch (Exception ex)
             {

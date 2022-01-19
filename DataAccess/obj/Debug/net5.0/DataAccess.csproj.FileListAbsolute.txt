@@ -1,4 +1,3 @@
-C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\DataAccess\bin\Debug\net5.0\Data\BookSeedData.json
 C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
 C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
 C:\Users\dotnetmind02\Downloads\Pizza-Maniac-main\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json

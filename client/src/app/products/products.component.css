@@ -1,4 +1,5 @@
 body{
+
     margin-top:60px;
     background-color: #f4f7f6;
 }
@@ -40,7 +41,9 @@ body{
 }
 
 .product_item:hover .cp_img {
-    top: -40px
+   top: -20px;
+   transition-duration: 200ms;
+   transition-timing-function: ease-out;
 }
 
 .product_item:hover .cp_img img {
